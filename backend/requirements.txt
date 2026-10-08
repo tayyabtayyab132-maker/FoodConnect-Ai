@@ -7,3 +7,4 @@ passlib
 bcrypt==4.0.1
 groq
 crewai
+email-validator
